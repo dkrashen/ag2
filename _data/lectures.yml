@@ -7,3 +7,10 @@
 - title: "Lecture 3 (1/23/2023)"
   description: "Affine schemes intrinsically: Spectra as topological spaces, reintroduction to sheaves"
   filename: "lecture3.pdf"
+- title: "Lecture 4 (1/27/2023)"
+  description: "The structure sheaf is a sheaf"
+  filename: "lecture4.pdf"
+- title: "Lecture 5 (1/30/2023)"
+  description: "Schemes as locally ringed spaces"
+  filename: "lecture5.pdf"
+
