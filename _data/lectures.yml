@@ -30,6 +30,9 @@
   filename: "lecture10.pdf"
 - title: "Lecture 11 (2/20/2023)"
   description: "Morphisms between sheaves, Zariski algebraic spaces"
-  filename: "lecture10.pdf"
+  filename: "lecture11.pdf"
+- title: "Lecture 12 (2/24/2023)"
+  description: "Zariski algebraic spaces continued: covering and gluing"
+  filename: "lecture12.pdf"
 
 
