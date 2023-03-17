@@ -35,7 +35,10 @@
   description: "Zariski algebraic spaces continued: covering and gluing"
   filename: "lecture12.pdf"
 - title: "Lecture 13 (2/27/2023)"
-  description: "Quasi-coherent and coherent sheaves, Affine morphisms, part 1"
+  description: "Quasi-coherent and coherent sheaves, Affine morphisms"
+  filename: "lecture12.pdf"
+- title: "Lecture 14 (2/27/2023)"
+  description: "More sheaves of modules, Projective morphisms"
   filename: "lecture12.pdf"
 
 
