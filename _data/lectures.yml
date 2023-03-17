@@ -36,9 +36,12 @@
   filename: "lecture12.pdf"
 - title: "Lecture 13 (2/27/2023)"
   description: "Quasi-coherent and coherent sheaves, Affine morphisms"
-  filename: "lecture12.pdf"
-- title: "Lecture 14 (2/27/2023)"
+  filename: "lecture13.pdf"
+- title: "Lecture 14 (3/3/2023)"
   description: "More sheaves of modules, Projective morphisms"
-  filename: "lecture12.pdf"
+  filename: "lecture14.pdf"
+- title: "Lecture 15 (3/17/2023)"
+  description: "Projective morphisms, beginnings of divisors"
+  filename: "lecture15.pdf"
 
 
