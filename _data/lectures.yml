@@ -52,5 +52,14 @@
 - title: "Lecture 18 (3/27/2023)"
   description: "Line bundles and divisors. Intro to formal smoothness"
   filename: "lecture18.pdf"
+- title: "Lecture 19 (3/31/2023)"
+  description: "Newton's method, Hensel's Lemma and smoothness"
+  filename: "lecture19.pdf"
+- title: "Lecture 20 (4/7/2023)"
+  description: "Cohomology from a bird's eye view"
+  filename: "lecture20.pdf"
+- title: "Lecture 21 (4/10/2023)"
+  description: "Derived functors and derived categories"
+  filename: "lecture21.pdf"
 
 
