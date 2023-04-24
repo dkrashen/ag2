@@ -61,5 +61,14 @@
 - title: "Lecture 21 (4/10/2023)"
   description: "Derived functors and derived categories"
   filename: "lecture21.pdf"
+- title: "Lecture 22 (4/14/2023)"
+  description: "Faithfully flat descent, topologies and higher stacks"
+  filename: "lecture22.pdf"
+- title: "Lecture 23 (4/17/2023)"
+  description: "Homotopical descent"
+  filename: "lecture23.pdf"
+- title: "Lecture 24 (4/21/2023)"
+  description: "Deformations of smooth schemes"
+  filename: "lecture24.pdf"
 
 
